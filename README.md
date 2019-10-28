@@ -9,6 +9,7 @@ I only needed to use HTML and CSS for this particular oroject and it was a huge 
 ## Installation
 
 In order to install this project follow the Github link to https://github.com/kacox1251/unit1-homework-portfolio and fork the project. After that clone the repository through your Git Bash. To do that type 'git clone" and paste the HTML link inside your terminal, it will ask you for your github password. After the repository is safed in the directory of your choice you can access the HTML and CSS files and view them in your default browser.
+You can also download as a zip file by clicking "Download zip" in the "Clone or Download" dropdown.
 
 
 ## Usage
