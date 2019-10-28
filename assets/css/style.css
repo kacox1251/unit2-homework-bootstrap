@@ -9,7 +9,7 @@ body {
     width: 100%;
     height: 70px;
     position: relative;
-    margin: auto;
+    margin: 20px;
 }
 
 hr {
@@ -23,16 +23,20 @@ h1 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
-img {
+#me {
     padding: 10px;
+    float: left;
 }
 
 p {
     padding: 10px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 .container {
     width: 960px;
+    background: #ffffff;
+    margin: auto;
 }
 
 #name {
@@ -81,45 +85,60 @@ a {
 .tile {
     width: 200px;
     margin: 30px;
+    position: relative;
 }
 
 .tile_img {
     width: 200px;
     height: 200px;
-    float:
 }
 
 .tile-title {
     width: 100%;
     background: #4aaaa5;
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #ffffff;
 }
 
 .tile1 {
     float: left;
+    margin: 30px;
 }
 
 .tile2 {
     float: left;
+    margin: 30px;
 }
 
 .tile3 {
     float: left;
+    margin: 30px;
 }
 
 .tile4 {
     float: left;
+    margin: 30px;
 }
 
 .tile5 {
     float: left;
+    margin: 30px;
 }
 
 .tile6 {
     float: left;
+    margin: 30px;
 }
 
+label {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
 footer {
     background: #666666;
     text-align: center;
-    margin: 30px;
+    margin: 20px;
 }
