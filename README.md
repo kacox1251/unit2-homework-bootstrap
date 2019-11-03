@@ -2,13 +2,12 @@
 
 ## Description
 
-This is the portfolio for the Unit 1 homework.
-I only needed to use HTML and CSS for this particular oroject and it was a huge learning opportunity. This project is just to show off a little bit about me as well as showcase some of my accomplishments. It was a little bit of a challenge to format with CSS from scratch. I had to do a lot of playing around with certain properties to see what it would look like. I think I managed pretty well and had good resources and people to help me when I got stuck. Even after the struggles I managed to complete mhy first project.
-
+This is the portfolio remade with Bootstrap for the Unit 2 Homework.
+This project requied me to use Bootstrap to format my portfolio to make it responsive and streamline the css. It is definitely much easier to utilize tool such as Bootstrap for your webpages. It isn't without it's own struggle. I had some trouble incoorporating my own styles in with the styles provided with Bootstrap. I hope you enjoy the changes I made.
 
 ## Installation
 
-In order to install this project follow the Github link to https://github.com/kacox1251/unit1-homework-portfolio and fork the project. After that clone the repository through your Git Bash. To do that type 'git clone" and paste the HTML link inside your terminal, it will ask you for your github password. After the repository is safed in the directory of your choice you can access the HTML and CSS files and view them in your default browser.
+In order to install this project follow the Github link to https://github.com/kacox1251/unit2-homework-bootstrap and fork the project. After that clone the repository through your Git Bash. To do that type 'git clone" and paste the HTML link inside your terminal, it will ask you for your github password. After the repository is safed in the directory of your choice you can access the HTML and CSS files and view them in your default browser.
 You can also download as a zip file by clicking "Download zip" in the "Clone or Download" dropdown.
 
 
@@ -16,20 +15,21 @@ You can also download as a zip file by clicking "Download zip" in the "Clone or 
 
 The page can be navigated through the links on the top right of the page. There is a link to the "About" page, the "Portfolio" page, and the "Contact" page.
 On the "About" page you can see a photo of me and read a little bit about me.
-On the "Portfolio" page you can see tiles that contain links to my complete projects. Just hover and clock on the links and it will dirdct you to them.
+On the "Portfolio" page you can see tiles that contain links to my complete projects. Just hover and clock on the links and it will direct you to them.
 On the "Contact" page you will find a form where you can fill out your Name, Email adress, and your Message. Clicking the submit button will send me your message.
 
 
 ## Credits
 
-Credit to this project belongs to me.
+Credit for this project belongs to me.
+Credit for the styling belongs to https://getbootstrap.com/.
 
 
 ## Liscense
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2019] [Krystal Cox]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
